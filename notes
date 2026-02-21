@@ -1,2 +1,4 @@
-Notes App
-A simple app to store and manage notes
+Feature: Add Note
+- Title
+- Content
+- Date
